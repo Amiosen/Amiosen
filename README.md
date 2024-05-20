@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm AmirHosein</h1>
-<h3 align="center">A backend developer from Iran 🇮🇷</h3>
+<h3 align="center">python and backend developer</h3>
 
-- 🧑🏻‍💻 I’m developing web applications using Django
+- 🧑🏻‍💻 developing web applications using Django
 
-- 👀 I’m interested in web development and DevOps
-
-- 🌱 I’m currently learning .net
+- 👀 interested in web development and DevOps
 
 - 📫 How to reach me **amirhosseinsereshti@gmail.com**
 
