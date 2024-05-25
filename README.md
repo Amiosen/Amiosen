@@ -5,6 +5,13 @@
 
 - 👀 interested in web development and DevOps
 
+- 📟 Technologies I work with:
+    - Python 🐍
+    - Django Ԃ
+    - Docker 🐳
+    - DRF 💿
+    - PostgreSql 🐘
+
 - 📫 How to reach me **amirhosseinsereshti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
