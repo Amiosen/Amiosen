@@ -3,7 +3,7 @@
 
 - 🧑🏻‍💻 developing web applications using Django
 
-- 👀 interested in web development and DevOps
+- 👀 interested in Web Development, DevOps and Data Science
 
 - 📟 Technologies I work with:
     - Python
